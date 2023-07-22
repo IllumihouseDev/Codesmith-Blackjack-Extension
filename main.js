@@ -1,4 +1,4 @@
-//blackjack functionality.
+c//blackjack functionality.
 
 function shuffle(array) {
     let currentIndex = array.length, randomIndex;
